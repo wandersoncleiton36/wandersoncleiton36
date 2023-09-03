@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Eu sou o Wanderson Cleiton, sou Programador Front End, atualmente estou aprendenso a criar projetos com:
+<br>
+<br>
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo"/>
+
+ - E iniciando o aprendizado em JavaScript e React.
+ 
+
 <!--
 **wandersoncleiton36/wandersoncleiton36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
