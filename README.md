@@ -9,22 +9,10 @@
 
 ## Tecnologias que eu uso no meu dia.
 <div style="display: inline-block"><br/>
-  <img alt="html5" src=""/>  
-</div>
-
-
-
-
-
-
-
-Eu sou o Wanderson Cleiton, sou Programador Front End, atualmente estou aprendendo a criar projetos com:
-<br>
-<br>
-  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
-  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo"/>
-
- - E iniciando o aprendizado em JavaScript e React.
+  <img alingn="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img alingn="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+</div><br>
+Apaixonado por tecnologia! Sou um programador Front End, atualmente estou aprendendo e criando projetos com HTML5 e CSS3, e iniciando o aprendizado de JavaScript e React.
 
 
 
